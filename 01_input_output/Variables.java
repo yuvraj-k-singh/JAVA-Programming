@@ -12,7 +12,7 @@ public class Variables {
         System.out.println(y);
         System.out.println(x+y);
         x = x-4;
-        System.out.println(x);
+        System.out.print(x);
     }
 }
 
