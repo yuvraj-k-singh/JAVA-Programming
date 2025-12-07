@@ -1,3 +1,8 @@
+/*
+WAP: Sum Of Two Numbers
+Date: 07-Dec-2025
+*/
+
 import java.util.Scanner;
 
 public class SumOfTwo {
