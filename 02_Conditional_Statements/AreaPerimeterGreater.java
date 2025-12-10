@@ -1,5 +1,5 @@
 /*
-WAP: Check Area Perimeter Greater
+WAP: Check Greater Area Perimeter
 Date: 09-Dec-2025
 */
 
