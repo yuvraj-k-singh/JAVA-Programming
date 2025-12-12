@@ -1,12 +1,13 @@
 /*
-WAP: Swap Two Numbers Using Third Variable
+WAP: Swap Two Numbers Without Using Third Variable
 Date: 12-Dec-2025
 */
 
+
 import java.util.Scanner;
 
-public class SwapTwoNumbersUsingThirdV {
-    public static void main(String[] args){
+public class SwapTwoNumbersWithoutUsingThirdV {
+    public static void main() {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the first value: ");
@@ -18,9 +19,9 @@ public class SwapTwoNumbersUsingThirdV {
         System.out.println("A : "+a+ " and B: "+b);
 
         //swapping logic
-        int temp = a;
-        a = b;
-        b = temp;
+        a = a+b;
+        b = a-b;
+        a = a-b;
 
         System.out.println("\nThe values After swapping is: ");
         System.out.print("A : "+a+ " and B: "+b);
