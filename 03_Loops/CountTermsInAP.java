@@ -3,7 +3,6 @@ WAP: Count Terms In AP
 Date: 13-Dec-2025
 */
 
-
 import java.util.Scanner;
 
 public class CountTermsInAP {
@@ -13,6 +12,7 @@ public class CountTermsInAP {
         for(int i=a; i<=limit; i+=d){
             count++;
         }
-        System.out.print("The numbers of terms in AP is: "+count);
+        System.out.println("First term: "+a+"\nCommon difference: "+d);
+        System.out.print("The totals numbers of terms in AP is: "+count);
     }
 }
