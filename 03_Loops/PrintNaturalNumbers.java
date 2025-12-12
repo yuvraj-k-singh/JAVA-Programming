@@ -3,7 +3,6 @@ WAP: Print Natural Numbers
 Date: 12-Dec-2025
 */
 
-
 import java.util.Scanner;
 
 public class PrintNaturalNumbers {
