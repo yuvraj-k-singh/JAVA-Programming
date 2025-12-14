@@ -12,11 +12,21 @@ public class CheckHighestFactor {
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
 
-        for(int i=n-1; i >= Math.sqrt(n); i--){
+        if(n==1) {
+            System.out.print("\nThe  given number 1 is nor prime neither composite, has factor 1!");
+            return;
+        }
+
+        int high_fact = 1;
+
+        for(int i=2; i <= Math.sqrt(n); i++){
             if(n%i==0){
-                System.out.print("\nThe highest factor of "+n+" is: "+i);
+                high_fact = n/i;
                 break;
             }
         }
+        if(high_fact == 1){
+            System.out.print("\nNo highest factor, given number "+n+" is prime  number!");
+        } else System.out.print("\nThe highest factor of given number "+n+" is: "+high_fact);
     }
 }
