@@ -1,8 +1,7 @@
 /*
-WAP: Print Even No Using Continue
+WAP: Sum Of Natural Numbers
 Date: 14-Dec-2025
 */
-
 
 import java.util.Scanner;
 

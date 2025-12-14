@@ -1,3 +1,8 @@
+/*
+WAP: Factorial Of A Number
+Date: 14-Dec-2025
+*/
+
 import java.util.Scanner;
 
 public class FactorialOfANumber {
