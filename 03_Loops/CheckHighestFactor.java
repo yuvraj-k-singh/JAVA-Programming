@@ -1,6 +1,6 @@
 /*
 WAP: Check Highest Factor
-Date: 12-Dec-2025
+Date: 14-Dec-2025
 */
 
 import java.util.Scanner;
