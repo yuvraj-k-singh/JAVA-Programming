@@ -1,3 +1,8 @@
+/*
+WAP: Print GP Series - 1,4,16,.....
+Date: 14-Dec-2025
+*/
+
 import java.util.Scanner;
 
 public class GPSeriesType2 {
