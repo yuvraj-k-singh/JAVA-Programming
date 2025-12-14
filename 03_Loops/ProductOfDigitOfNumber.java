@@ -5,7 +5,7 @@ Date: 14-Dec-2025
 
 import java.util.Scanner;
 
-public class ProdcutOfDigitOfNumber {
+public class ProductOfDigitOfNumber {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
