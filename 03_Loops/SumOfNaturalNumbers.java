@@ -1,3 +1,9 @@
+/*
+WAP: Print Even No Using Continue
+Date: 14-Dec-2025
+*/
+
+
 import java.util.Scanner;
 
 public class SumOfNaturalNumbers {
@@ -14,6 +20,6 @@ public class SumOfNaturalNumbers {
             sum += i;
         }
 
-        //System.out.print("\nThe sum of " +n+ " numbers is: "+sum);
+        System.out.print("\nThe sum of " +n+ " numbers is: "+sum);
     }
 }
