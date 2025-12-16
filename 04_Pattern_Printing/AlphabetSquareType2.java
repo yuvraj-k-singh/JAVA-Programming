@@ -3,7 +3,6 @@ WAP: Alphabet Square Type 2
 Date: 16-Dec-2025
 */
 
-
 import java.util.Scanner;
 
 public class AlphabetSquareType2 {
