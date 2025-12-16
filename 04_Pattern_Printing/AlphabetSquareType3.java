@@ -1,3 +1,8 @@
+/*
+WAP: Alphabet Square Type 3
+Date: 16-Dec-2025
+*/
+
 import java.util.Scanner;
 
 public class AlphabetSquareType3 {
@@ -6,17 +11,15 @@ public class AlphabetSquareType3 {
 
         System.out.print("Enter the value of n: ");
         int n = sc.nextInt();
-        char ch = 'A';
 
         System.out.println();
         for(int i=1; i<=n; i++){
             for(int j=1; j<=n; j++){
                 if(i%2==0){
-                    System.out.print(ch+" ");
-                } else System.out.print((char)(ch+32)+" ");
+                    System.out.print((char)(i+64)+" ");
+                } else System.out.print((char)(i+96)+" ");
             }
             System.out.println();
-            ch++;
         }
     }
 }
