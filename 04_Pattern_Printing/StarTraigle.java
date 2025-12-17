@@ -1,6 +1,13 @@
 /*
 WAP: Star Triangle
 Date: 17-Dec-2025
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
 */
 
 import java.util.Scanner;

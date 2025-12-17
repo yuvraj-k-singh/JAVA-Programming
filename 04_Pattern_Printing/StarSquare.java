@@ -1,6 +1,12 @@
 /*
 WAP: Star Square
 Date: 16-Dec-2025
+
+* * * *
+* * * *
+* * * *
+* * * *
+
 */
 
 import java.util.Scanner;

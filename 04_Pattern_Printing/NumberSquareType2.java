@@ -1,3 +1,14 @@
+/*
+WAP: Number Square Type 2
+Date: 16-Dec-2025
+
+1 1 1 1
+2 2 2 2
+3 3 3 3
+4 4 4 4
+
+*/
+
 import java.util.Scanner;
 
 public class NumberSquareType2 {

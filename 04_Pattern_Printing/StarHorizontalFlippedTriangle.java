@@ -1,6 +1,13 @@
 /*
 WAP: Star Horizontal Flipped Triangle
 Date: 17-Dec-2025
+
+* * * * *
+* * * *
+* * *
+* *
+*
+
 */
 
 

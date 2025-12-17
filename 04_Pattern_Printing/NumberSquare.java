@@ -1,6 +1,12 @@
 /*
 WAP: Number Square
 Date: 16-Dec-2025
+
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+
 */
 
 import java.util.Scanner;

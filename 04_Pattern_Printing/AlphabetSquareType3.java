@@ -1,6 +1,12 @@
 /*
 WAP: Alphabet Square Type 3
 Date: 16-Dec-2025
+
+a a a a
+B B B B
+c c c c
+D D D D
+
 */
 
 import java.util.Scanner;

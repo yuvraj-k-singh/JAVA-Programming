@@ -1,6 +1,13 @@
 /*
 WAP: Alphanumeric Triangle
 Date: 17-Dec-2025
+
+1
+A B
+1 2 3
+A B C D
+1 2 3 4 5
+
 */
 
 import java.util.Scanner;
