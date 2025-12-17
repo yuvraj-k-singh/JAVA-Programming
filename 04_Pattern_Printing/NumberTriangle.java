@@ -1,6 +1,11 @@
+/*
+WAP: Number Triangle
+Date: 17-Dec-2025
+*/
+
 import java.util.Scanner;
 
-public class NumberTraingle {
+public class NumberTriangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
