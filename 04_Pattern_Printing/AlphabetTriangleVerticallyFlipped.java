@@ -1,3 +1,14 @@
+/*
+WAP: Alphabet Triangle Vertically Flipped
+Date: 18-Dec-2025
+
+      A
+    B B
+  C C C
+D D D D
+
+*/
+
 import java.util.Scanner;
 
 public class AlphabetTriangleVerticallyFlipped {
