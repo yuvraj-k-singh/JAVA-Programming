@@ -23,6 +23,6 @@ public class Combination {
         int r = sc.nextInt();
 
         int ncr = fact(n)/(fact(r)*fact(n-r));
-        System.out.println("\nThe combination of "+n+"C and "+r+"R is: "+ ncr);
+        System.out.println("\nThe combination of "+n+"N and "+r+"R is: "+ ncr);
     }
 }
