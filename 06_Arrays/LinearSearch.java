@@ -21,7 +21,7 @@ public class LinearSearch {
             }
         }
 
-        if(flag == true) System.out.print("\n" +x+ " element is present in given array!");
+        if(flag) System.out.print("\n" +x+ " element is present in given array!");
         else System.out.print("\n" +x+ " element is not present in given array!");
     }
 }
