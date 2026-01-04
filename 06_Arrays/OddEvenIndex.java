@@ -1,3 +1,8 @@
+/*
+WAP: Multiple Odd by 2 and add Even Index by 10
+Date: 04-Jan-2026
+*/
+
 public class OddEvenIndex {
     public static void  main(String[] args){
         int[] arr = {2,5,6,7,9,3,5};
