@@ -1,6 +1,9 @@
+/*
+WAP: Second Maximum Element V1
+Date: 04-Jan-2026
+*/
 
-
-public class SecondMaximumElement {
+public class SecondMaximumElementV1 {
     public static void main(String[] args){
         int[] arr = {2,3,5,7,3,7,5};
         int max = arr[0], smax = arr[0];
