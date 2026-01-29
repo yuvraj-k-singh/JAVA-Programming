@@ -1,11 +1,11 @@
 /*
-WAP: Two sum GFG
+WAP: Two sum Two Pointers
 Date: 30-Jan-2026
 */
 
 import java.util.Arrays;
 
-public class TwoSumGFG {
+public class TwoSumTwoPointers {
     public static boolean twoSum(int[] arr, int target){
         Arrays.sort(arr);
         int i=0, j=arr.length-1;
