@@ -16,21 +16,21 @@ public class CopyConstructor {
 
 class Teacher {
     String name;
-    int marks;
+    int ID;
 
     Teacher(String name, int marks){
         this.name = name;
-        this.marks = marks;
+        this.ID = marks;
     }
 
     Teacher(Teacher obj){
         name = obj.name;
-        marks = obj.marks;
+        ID = obj.ID;
     }
 
     void display(){
         System.out.println("\n--------Teacher Details---------");
         System.out.println("Teacher name: "+name);
-        System.out.println("Teacher marks: "+marks);
+        System.out.println("Teacher marks: "+ ID);
     }
 }
