@@ -7,20 +7,20 @@ package Constructor;
 
 public class ThisKeyword {
     public static void main(String[] args) {
-       student s1 = new student("Yuvraj", 89, "IIST", 90.65);
+       Student s1 = new Student("Yuvraj", 89, "IIST", 90.65);
        s1.display();
-       student s2 = new student("Anish", 05, "IIST", 91.70);
+       Student s2 = new Student("Anish", 05, "IIST", 91.70);
        s2.display();
     }
 }
 
-class student{
+class Student {
     String name;
     int id;
     String collegeName;
     double marks;
 
-    student(String name, int id, String collegeName, double marks){
+    Student(String name, int id, String collegeName, double marks){
         this.name = name;
         this.collegeName = collegeName;
         this.id = id;
@@ -30,7 +30,7 @@ class student{
     void display(){
         System.out.println("\nStudent Details-");
         System.out.println("Student name: "+name);
-        System.out.println("College Name: "+collegeName);
+        System.out.println("Student Name: "+collegeName);
         System.out.println("Student ID: "+id);
         System.out.println("Student Marks: "+marks);
     }
