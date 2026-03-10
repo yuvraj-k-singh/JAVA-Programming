@@ -1,6 +1,6 @@
 /*
 WAP: This Keyword
-Date: 10-Mar-2026
+Date: 11-Mar-2026
 */
 
 package Constructor;
@@ -14,7 +14,7 @@ public class ThisKeyword {
     }
 }
 
-class  student{
+class student{
     String name;
     int id;
     String collegeName;
