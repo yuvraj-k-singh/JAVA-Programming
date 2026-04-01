@@ -1,8 +1,13 @@
+/*
+WAP: Distinct Elements
+Date: 01-Apr-2026
+*/
+
 import java.util.HashSet;
 
 public class DistinctElements {
     public static void main(String[] args) {
-        int[] arr = {1,1,4,2,4,3,5,6};
+        int[] arr = {1,1,1,1,1};
 
         int size = distinctElement(arr);
 
