@@ -8,6 +8,7 @@ public class DeepCopy {
         Employee s1 = new Employee("Yuvraj", 89);
         s1.print();
         Employee s2 = new Employee(s1);
+        s2.ID = 99;
         s2.print();
     }
 }
