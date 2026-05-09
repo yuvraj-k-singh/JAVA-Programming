@@ -11,9 +11,9 @@ public class FloorElementBS {
         int ans = floorElement(arr, x);
 
         if(ans == -1){
-            System.out.print("The given target " + target + " floor value is not present!");
+            System.out.print("The given target " + x + " floor value is not present!");
         }else{
-            System.out.print("The given target " + target + " floor valie is present at " + ans + " index!");
+            System.out.print("The given target " + x + " floor value is present at " + ans + " index!");
         }
     }
 
@@ -21,7 +21,7 @@ public class FloorElementBS {
         int low=0, high=arr.length-1, indx = -1;
 
         while(low<=high){
-            ind mid = low+(high-low)/2;
+            int mid = low+(high-low)/2;
 
             if(arr[mid] > k){
                 high = mid-1;
