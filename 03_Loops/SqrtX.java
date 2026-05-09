@@ -1,3 +1,9 @@
+/*
+WAP: Square root Number
+Date: 09-May-2026
+*/
+
+
 public class SqrtX {
     public static void main(String[] args) {
         int n = 20;
