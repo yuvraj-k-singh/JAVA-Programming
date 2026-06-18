@@ -5,7 +5,7 @@ Date: 24-Dec-2025
 
 import java.util.Scanner;
 
-public class PascalTriangle {
+public class PascalTriangle{
 
     public static int fact(int n){
         int f = 1;
