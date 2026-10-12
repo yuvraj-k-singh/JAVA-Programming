@@ -5,7 +5,7 @@ Date: 03-Jan-2026
 
 import java.util.Scanner;
 
-public class SumOfElements {
+public class SumOfArrayElements {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
