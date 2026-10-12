@@ -1,5 +1,5 @@
 /*
-WAP: g
+WAP: Product Digits Functional
 Date: 11-oct-2026
 */
 
