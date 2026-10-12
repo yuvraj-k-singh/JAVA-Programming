@@ -1,3 +1,8 @@
+/*
+WAP: Reverse Array Two Pointers
+Date: 12-oct-2026
+*/
+
 public class ReverseArray {
     public static void main() {
         int[] arr = {1,2,3,4,5};
